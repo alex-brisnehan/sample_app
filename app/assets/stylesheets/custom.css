@@ -1,0 +1,43 @@
+.container {
+  width: 710px !important;
+}
+
+body {
+  background: #cff !important;
+}
+
+header {
+  padding-top: 20px !important;
+}
+
+header img {
+  padding: 1em !important;
+  background: #fff !important;
+}
+
+section {
+  margin-top: 1em !important;
+  font-size: 120% !important;
+  padding: 20px !important;
+  background: #fff !important;
+}
+
+section h1 {
+  font-size: 200% !important;
+}
+
+/* Links */
+
+a {
+  color: #09c;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #069;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #069;
+}
