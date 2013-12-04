@@ -69,14 +69,14 @@ p {
   float: left;
   margin-right: 10px;
   font-size: 1.7em;
-  color: white;
+  color: #ffd700;
   text-transform: uppercase;
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
   line-height: 1;
   &:hover {
-    color: white;
+    color: #ffd700;
     text-decoration: none;
   }
 }
@@ -247,7 +247,7 @@ nav {
 }
 
 nav {
-  background-color: white;
+  background-color: #ffd700;
   padding: 0 0.7em;
   white-space: nowrap;
 }
@@ -281,7 +281,7 @@ a.signup_button {
   display: block;
   text-align: center;
   width: 190px;
-  color: #fff;
+  color: #ffd700;
   background: #006400;
   font-size: 150%;
   font-weight: bold;
@@ -292,7 +292,7 @@ a.signup_button {
 }
 
 body {
-  background: #cff;
+  background: #000;
 }
 
 header {
@@ -301,14 +301,14 @@ header {
 
 header img {
   padding: 1em;
-  background: #fff;
+  background: #ffd700;
 }
 
 section {
   margin-top: 1em;
   font-size: 120%;
   padding: 20px;
-  background: #fff;
+  background: #ffd700;
 }
 
 section h1 {
@@ -367,7 +367,7 @@ div.field, div.actions {
 }
 
 .field_with_errors label {
-  color: #fff;
+  color: #ffd700;
 }
 
 #error_explanation {
@@ -386,7 +386,7 @@ div.field, div.actions {
   font-size: 12px;
   margin: -7px;
   background-color: #c00;
-  color: #fff;
+  color: #ffd700;
 }
 
 #error_explanation p {
