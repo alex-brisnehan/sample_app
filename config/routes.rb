@@ -4,6 +4,7 @@ SampleApp::Application.routes.draw do
       get :following, :followers
     end
   end
+ root to: 'pages#home'
 
   resources :sessions,      :only => [:new, :create, :destroy]
   resources :microposts,    :only => [:create, :destroy]
@@ -16,7 +17,6 @@ SampleApp::Application.routes.draw do
   match '/about',   to: 'pages#about'
   match '/contact', to: 'pages#contact'
 
- root to: 'pages#home'
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
