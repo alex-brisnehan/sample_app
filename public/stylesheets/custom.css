@@ -449,6 +449,8 @@ div.user_info span.user_name {
 }
 
 div.user_info span.microposts {
+  position: relative;
+  left:275px;
   font-size: 80%;
 }
 
