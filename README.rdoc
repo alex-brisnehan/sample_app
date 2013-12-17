@@ -2,3 +2,5 @@
 
 Extra Credit completed: Avatars, ...
 
+Still not done: Search, post on friends' walls
+
