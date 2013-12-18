@@ -46,7 +46,7 @@ SampleApp::Application.configure do
 
   # Send deprecation notices to registered listeners
   config.active_support.deprecation = :notify
-  config.assets.precompile += ['static_pages.css']
+  config.assets.precompile += %w( public.js public.css  )
   config.cache_classes = true
   config.serve_static_assets = true
   config.assets.compile = true
