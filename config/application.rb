@@ -9,7 +9,7 @@ Bundler.require(:default, Rails.env) if defined?(Bundler)
 module SampleApp
   class Application < Rails::Application
     config.assets.enabled = true
-    config.assets.initialize_on_precompile = true
+    config.assets.initialize_on_precompile = false
     config.assets.precompile << /(^[^_\/]|\/[^_])[^\/]*$/
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
