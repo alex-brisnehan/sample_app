@@ -1,5 +1,10 @@
 == Note to instructors
 
+Account info:
+Name:Alex Brisnehan Email: random@something.com Password: breezy
+Name: Joe Rando Email: blahblah@something.com Password: joerando
+Name:Some Guy Email: some.guy@something.com Password: someguy
+
 Extra Credit completed: Avatars
 
 Still not done: Search, post on friends' walls. These features were not implemented because we ran out of time.
