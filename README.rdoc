@@ -1,6 +1,6 @@
-== FACEBOOK
+== Note to instructors
 
-Extra Credit completed: Avatars, ...
+Extra Credit completed: Avatars
 
-Still not done: Search, post on friends' walls
+Still not done: Search, post on friends' walls. These features were not implemented because we ran out of time.
 
